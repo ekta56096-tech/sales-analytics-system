@@ -1,0 +1,10 @@
+========================================
+SALES ANALYTICS REPORT
+Generated: 2026-01-20 12:25:34.449513
+Records Processed: 80
+========================================
+
+OVERALL SUMMARY
+----------------------------------------
+Total Revenue: ₹3,578,094.00
+Total Transactions: 80
